@@ -4,11 +4,10 @@
 }
 
 .header {
-    
 }
 .header__top{
     width: 100%;
-    margin:20px 20px;
+    margin:40px 20px;
     color:rgb(0,39,126);
     display: flex;
 }
@@ -17,21 +16,21 @@
     font-weight:bold;
 }
 .header__top-nav{
-    font: size 20px;
     font-weight: bold;
     display: flex;
+    margin: 0 20px 0 450px;
     align-items: center;
-    justify-content: flex-end;
     list-style: none;
 }
 .header__top-nav--link{
     display: inline-block;
+    margin-right: 20px;
 
 }
 
 .main{
     width: 100%;
-    margin:100px auto 50px;
+    margin:200px auto 50px;
 }
 .main__content{
     width:100%;
